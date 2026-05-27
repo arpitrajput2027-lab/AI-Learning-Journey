@@ -1,0 +1,2 @@
+If we try to write in existing written file using 'w' mode, it will overwrite the existing content.
+previous

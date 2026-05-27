@@ -1,0 +1,14 @@
+a = int(input("Enter the 1st Number : "))
+b = int(input("Enter the 2nd Number : "))
+c = int(input("Enter teh 3rd Number : "))
+
+if(a>b):
+    if(a>c):
+        print(a," is the Greatest Number. ")
+    else :
+        print(c,"is the Greatest Number.")
+else :
+    if(b>c):
+        print(b," is the Greatest Number.")
+    else :
+        print(c,"is the Greatest Number.")
